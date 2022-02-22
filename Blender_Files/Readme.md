@@ -1,1 +1,3 @@
-# Exemple de fichier Blender utilisant le module GEOMETRY NODE
+# Exemple de fichier Blender
+
+> Dossier GEOMETRY NODE quelques exemples
