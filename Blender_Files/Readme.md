@@ -2,4 +2,4 @@
 
 > Dossier GEOMETRY NODE quelques exemples
 
-> Dosier Kerbal Tuto WIP pour un reservoir modulable
+> Dosier KerbalTuto - WIP pour un reservoir modulable - tuto baking texture
