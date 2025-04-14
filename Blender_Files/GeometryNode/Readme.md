@@ -15,5 +15,6 @@ ____
 ![](https://github.com/Massetstephane/BLENDER/blob/8302d6f13712c8ce178e65d6d356548726d79d67/Render/Bride1.jpg)
 ____
 
-## fichier : Tuto how to control Ramp Color (tuto youtube [Ryan King Art](https://www.youtube.com/watch?v=WaDkMP5ruh4&list=PLWTKC670hHxaFZ-Ls-kE7b9qAEf7rdVA8&index=110))![](Render/Ramp-PIctures/global-node.jpg)
+## fichier : Tuto how to control Ramp Color (tuto youtube [Ryan King Art](https://www.youtube.com/watch?v=WaDkMP5ruh4&list=PLWTKC670hHxaFZ-Ls-kE7b9qAEf7rdVA8&index=110))![](https://github.com/Massetstephane/BLENDER/blob/2c3461362b2ee1040f2bdde2c2f4113735dcf6cf/Render/Ramp-PIctures/global-node.jpg)
+
 
