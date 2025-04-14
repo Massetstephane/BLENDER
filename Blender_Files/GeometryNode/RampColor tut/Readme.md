@@ -1,4 +1,4 @@
-## how to control all parameter in color Ramp Converter node
+## how to control all parameter in color Ramp Converter node avoiding breaking drivers by adding input.
 
 the complete node :
 ![](https://github.com/Massetstephane/BLENDER/blob/2c3461362b2ee1040f2bdde2c2f4113735dcf6cf/Render/Ramp-PIctures/global-node.jpg)
@@ -32,4 +32,4 @@ the complete node :
 - paste the drivers in path give :  node_tree.nodes["GroupBase"].inputs[6].default_value
 - .inputs[6] is the index (6) for the slot 'color 1 Position' in Group Input and if you change the order or add new input index change and driver take bad index.
 - But (see above) if the label slot is used : .inputs["Color 1 Position"] driver work if you change something in Group Input later.
-
+- And if you have more than four position in Ramp Color converter with drivers, change in Group Input can break drivers and it's not easy to retrieve original index.
