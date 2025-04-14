@@ -9,3 +9,6 @@ D'aprés ce [tuto youtube](https://youtu.be/NyUJ6XH8A94) et mon [essai](https://
 
 `orientation des raidisseurs résolue, tout est paramétrable auchoix`
 
+# Geometry Node (some example from youtube)
+>[Geometry Node folder](https://github.com/Massetstephane/BLENDER/tree/42294861b993b885a411c860eac291a443a5eb8d/Blender_Files/GeometryNode)
+
