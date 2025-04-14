@@ -13,3 +13,8 @@ ____
 ![](https://github.com/Massetstephane/BLENDER/blob/8302d6f13712c8ce178e65d6d356548726d79d67/Render/Bride2.jpg)
 - Node 
 ![](https://github.com/Massetstephane/BLENDER/blob/8302d6f13712c8ce178e65d6d356548726d79d67/Render/Bride1.jpg)
+____
+
+## fichier : Tuto how to control Ramp Color (tuto youtube [Ryan King Art
+](https://www.youtube.com/watch?v=WaDkMP5ruh4&list=PLWTKC670hHxaFZ-Ls-kE7b9qAEf7rdVA8&index=110))
+
