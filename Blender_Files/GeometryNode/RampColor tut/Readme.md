@@ -14,7 +14,7 @@ the complete node :
 
 ![](https://github.com/Massetstephane/BLENDER/blob/e90c3807a2435c1e956345adf4c52a429098a07b/Render/Ramp-PIctures/Ramp-test-ungrouped.jpg)
 
-- Group Input collecte all colors and 'Color # Position' are not used
+- Group Input collecte all colors and ```'Color # Position'``` are not used.
 - if you add new input here, driver is broken because order change in python if you keep the info copied same as internal.
 - Color are passed throught c1, c2.. in Ramp group.
 
@@ -29,7 +29,7 @@ the complete node :
 
 ![](https://github.com/Massetstephane/BLENDER/blob/0ce7654d8b3d3b005ffae5018dd14cbf7a7bc426/Render/Ramp-PIctures/drivers.jpg)
 
-- paste the drivers in path give :  node_tree.nodes["GroupBase"].inputs[6].default_value
-- .inputs[6] is the index (6) for the slot 'color 1 Position' in Group Input and if you change the order or add new input index change and driver take bad index.
-- But (see above) if the label slot is used : .inputs["Color 1 Position"] driver work if you change something in Group Input later.
+- paste the drivers in path give :  ```node_tree.nodes["GroupBase"].inputs[6].default_value```
+- ```.inputs[6]``` is the index (6) for the slot 'color 1 Position' in Group Input and if you change the order or add new input index change and driver take bad index.
+- But (see above) if the label slot is used : ```.inputs["Color 1 Position"]``` driver work if you change something in Group Input later.
 - And if you have more than four position in Ramp Color converter with drivers, change in Group Input can break drivers and it's not easy to retrieve original index.
